@@ -1,0 +1,58 @@
+/*
+	styles.css
+*/
+body {
+    font-family: Roboto;
+}
+
+.title {
+    font-family: 'Roboto Thin';
+	font-size: 80px;
+}
+
+.blackSmallCaps {
+    font-family: "Roboto Black";
+	font-variant: small-caps;
+    font-size: 40px;
+     
+}
+
+.italic {
+	font-style: italic;
+	font-size: 16px;
+}
+
+.bold {
+	font-weight: bold;
+	font-size: 26px;
+}
+
+.boldCondensed {
+    font-weight: bold;
+	font-stretch: condensed;
+    font-size: 49px;
+}
+
+.medium {
+	font-weight: medium;
+	font-size: 21px;
+}
+
+.light {
+    font-family: "Roboto Light";
+    font-size: 40px;
+}
+
+.boldItalic {
+	font-weight: bold;
+	font-style: italic;
+	font-size: 24px;
+}
+
+.regular {
+	font-size: 14px;
+}
+
+
+
+
